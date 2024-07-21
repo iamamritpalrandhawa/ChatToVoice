@@ -16,14 +16,6 @@
             "dest": "/index.js"
         },
         {
-            "src": "/public/(.+)",
-            "dest": "/index.js"
-        },
-        {
-            "src": "/public",
-            "dest": "/index.js"
-        },
-        {
             "src": "/",
             "dest": "/build/index.html"
         },
